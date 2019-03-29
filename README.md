@@ -24,7 +24,7 @@ Each file showcases one of these:
 - How the Liquid for tag works
 - How to use Liquid Partials
 - How inheritance works with Liquid
-- How to integrate Liquid to an express application
+- How to integrate Liquid with an express application
 
 ---
 
