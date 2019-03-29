@@ -16,4 +16,16 @@ To run the express demo run `node express-demo.js` and go to `localhost:3000/tod
 
 ---
 
+Each file showcases one of these:
+
+- How to render from a string with liquid
+- How the liquid sort filter works
+- How to render liquid from a file
+- How the Liquid for tag works
+- How to use Liquid Partials
+- How inheritance works with Liquid
+- How to integrate Liquid to an express application
+
+---
+
 Examples taken from http://zetcode.com/javascript/liquidjs/
